@@ -4,7 +4,7 @@
 
 - Tên nhóm: 2A202601928
 - Repository URL: [TODO](https://github.com/Ngoquyen07/K4-DAY13-2A202601928)
-- Commit SHA cuối: TODO
+- Commit SHA cuối: d7266913a8c861b5856701aac77745e0ea55cc91
 - Thành viên và vai trò:
   - Người 1 - Ngô Ngọc Quyền - 2A202601928 Tech Lead / Backend Observability: correlation ID middleware, enrich logs, trace/span extension nếu có.
   - Người 2 - Nguyễn Kỳ Anh - 2A202601558 Security & SRE Engineer: PII scrubbing, SLO, alert rules, alert runbook.
